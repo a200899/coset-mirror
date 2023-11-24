@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Update docs building code (#7601)
