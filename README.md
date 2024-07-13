@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Update pyproject.toml and Docs (#7274)
