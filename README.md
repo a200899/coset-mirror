@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Add YOLOv8 LibTorch C++ inference example (#7090)
